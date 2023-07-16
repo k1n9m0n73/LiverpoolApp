@@ -1,0 +1,41 @@
+/* Add your preferred styles here */
+.header {
+  text-align: center;
+  background-color: rgb(100, 23, 23);
+  color: #fff;
+  padding: 20px;
+  width: 100%;
+}
+
+.header img {
+  float: left;
+  width: 150px;
+  height: 100px;
+}
+
+.content {
+  margin: 20px;
+  padding: 20px;
+  text-align: center;
+}
+
+.footer {
+  text-align: center;
+  color: #fff;
+  padding: 10px;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  background-color: rgb(100, 23, 23);
+}
+
+h1, h2 {
+  text-align: center;
+}
+
+#countdown {
+  text-align: center;
+  font-size: 60px;
+  font-weight: bold;
+  margin-top: 10px;
+}
